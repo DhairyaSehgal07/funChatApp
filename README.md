@@ -2,7 +2,7 @@
 A fun chatting application 
 
 Make sure you have npm installed 
-1) Donwload node modules by running npm install 
+1) Download node modules by running npm install 
 2) Run 
 
 Run
