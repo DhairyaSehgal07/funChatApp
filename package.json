@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "",
+  "author": "Dhairya",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
